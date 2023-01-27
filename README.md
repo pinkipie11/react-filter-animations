@@ -12,4 +12,4 @@ and
 
 https://developers.themoviedb.org/3/genres/get-movie-list
 
-to get he list of official genres for movies.
+to get the list of official genres for movies.
